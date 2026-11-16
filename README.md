@@ -26,11 +26,11 @@ Ich tüftle, lerne dazu und entwickle meine Projekte Schritt für Schritt weiter
 | Projekt | Darum geht’s |
 | :--- | :--- |
 | **[ESPHome WS2805](https://github.com/babeinlovexd/ESPHOME-WS2805)** | Externe ESPHome-Komponente für RGBCCT-LED-Streifen: adressierbare RGB-Effekte und Steuerung der Weißkanäle. |
-| **[Insane Package Report](https://github.com/babeinlovexd/insane_package_report)** | Home-Assistant-Integration zum Verfolgen und Aktualisieren von ESPHome-Paketen und externen Komponenten. |
+| **[Insane Package Report](https://github.com/babeinlovexd/insane_package_report)** | Meldet in Home Assistant verfügbare Änderungen an ESPHome-Paketen und externen Komponenten. |
 | **[Insane Haustür Gate](https://github.com/babeinlovexd/Insane-haustuer-gate)** | Modulares ESP32-Zutrittssystem mit NFC und Fingerabdrucksensor sowie getrennter Innen- und Außeneinheit. |
-| **[Insane Soundbar](https://github.com/babeinlovexd/Insane-Soundbar)** | DIY-Soundbar mit eigener Audio-Hardware, DSP und Smart-Home-Anbindung. |
+| **[Insane Soundbar](https://github.com/babeinlovexd/Insane-Soundbar)** | DIY-Soundbar in Entwicklung mit eigener Audio-Hardware, DSP und Smart-Home-Anbindung. |
 | **[LyricForge](https://github.com/babeinlovexd/LyricForge)** | Lokale Desktop-App für Songwriting mit Textblöcken, Silbenanalyse und Reim-Helfer. |
-| **[Chronix](https://github.com/babeinlovexd/CCE2)** | Kalender- und Timeline-Werkzeug für eigene Welten, freie Zeitsysteme und Geschichten. |
+| **[Chronix](https://github.com/babeinlovexd/Chronix)** | Kalender-Werkzeug für eigene Welten, freie Zeitsysteme und Geschichten. |
 
 **Mehr zum Entdecken:** [R503-Fingerabdrucksensor](https://github.com/babeinlovexd/ESPHOME_r503) · [ESP8266 Chime](https://github.com/babeinlovexd/ESP8266-Chime) · [Insane Plants](https://github.com/babeinlovexd/Insane-Plants)
 
