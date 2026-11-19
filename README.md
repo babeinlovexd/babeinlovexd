@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="bxd-github-header.svg" alt="BxD / BabeinlovexD" width="720">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="bxd-github-header.svg">
+    <img src="bxd-github-header-light.svg" alt="BxD / BabeinlovexD" width="720">
+  </picture>
 </p>
 
 <h3 align="center">Smart Home · DIY-Elektronik · Audio · Kreative Software</h3>

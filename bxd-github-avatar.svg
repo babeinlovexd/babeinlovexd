@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="avatar-title"><title id="avatar-title">BxD / BabeinlovexD — Profilbild, Revision 09</title><rect width="1024" height="1024" fill="#0E151A"/><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1124 594" role="img" aria-labelledby="avatar-title" x="0" y="241.4235" width="1024" height="541.153">
+  <title id="avatar-title">BxD / Monogramm / Dunkler Hintergrund / Revision 09</title>
+  <defs>
+    <linearGradient id="avatar-porcelain" x1="0" y1="0" x2=".65" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#F1F4F2" />
+      <stop offset=".28" stop-color="#F1F4F2" />
+      <stop offset="1" stop-color="#A5B4BC" />
+    </linearGradient>
+    <linearGradient id="avatar-arctic-line">
+      <stop stop-color="#64D4C8" />
+      <stop offset=".5" stop-color="#F1F4F2" />
+      <stop offset="1" stop-color="#64D4C8" />
+    </linearGradient>
+  <clipPath id="avatar-x-horizontal-beschnitten" clipPathUnits="userSpaceOnUse"><rect x="0" y="143.2" width="1000" height="250.8" /></clipPath></defs>
+  <g transform="translate(-274 -31)">
+    <g id="avatar-Monogramm" transform="translate(339 131)" fill="url(#avatar-porcelain)" fill-rule="evenodd"><path id="avatar-B" d="M360 133H510C615 133 665 160 665 238C665 280 650 306 614 322C660 338 683 366 683 414C683 486 635 524 535 524H360V471H527C589 471 621 454 621 414C621 374 588 355 523 355H422V394H360Z M422 184V293H511C574 293 603 278 603 238C603 200 574 184 511 184Z" transform="translate(-360 -131)" /><g clip-path="url(#avatar-x-horizontal-beschnitten)"><path id="avatar-x-original-R08-Bold" d="M274 202 338 126 449 -4 523 64 362 235 332 267 305 296 274 331 249 359 99 529 25 461 216 267 25 64 99 -4ZM523 461 449 529 324 387 391 327Z" fill-rule="nonzero" transform="translate(292.33333300 408.96116323) scale(0.5347091932 -0.5347091932)" /></g><path id="avatar-D" d="M935 131H1081C1199 131 1257 195 1257 326C1257 460 1205 525 1081 525H935V261H993L1000 266V472H1079C1158 472 1193 425 1193 327C1193 229 1158 183 1079 183H935Z" transform="translate(-348.33333400000004 -131)" /><rect id="avatar-Punkt" x="943.666666" y="336" width="50" height="50" fill="#64D4C8" /></g></g>
+</svg></svg>
